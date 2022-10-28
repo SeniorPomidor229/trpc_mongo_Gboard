@@ -1,0 +1,34 @@
+{
+  "name": "trpc_mongo_gboard",
+  "version": "1.0.0",
+  "description": "i hate javasript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeniorPomidor229/trpc_mongo_Gboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeniorPomidor229/trpc_mongo_Gboard/issues"
+  },
+  "homepage": "https://github.com/SeniorPomidor229/trpc_mongo_Gboard#readme",
+  "dependencies": {
+    "@trpc/server": "^10.0.0-rc.1",
+    "@typegoose/typegoose": "^9.12.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0",
+    "zod": "^3.19.1"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.14",
+    "@types/node": "^18.11.7"
+  }
+}

@@ -1,0 +1,28 @@
+//Пиздец какой важный файл его не трогать
+{
+    "compilerOptions": {
+
+      "target": "es6",
+
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+
+  
+
+      "module": "commonjs",
+      "rootDir": "./src",
+
+      "outDir": "./dist",
+     
+      "esModuleInterop": true,
+
+      "forceConsistentCasingInFileNames": true,
+  
+
+      "strict": true,
+    
+      "strictPropertyInitialization": false,
+
+      "skipLibCheck": true 
+    }
+}
